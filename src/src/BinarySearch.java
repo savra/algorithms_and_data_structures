@@ -1,5 +1,6 @@
 import java.util.Arrays;
 
+/*Двоичный поиск*/
 public class BinarySearch {
     private static Integer binarySearch(int[] sourceArray, int searchValue) {
         int low = 0;
